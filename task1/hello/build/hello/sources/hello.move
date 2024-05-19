@@ -5,10 +5,10 @@ module hello::hello {
 }
 */
 module hello_world::hello {
-        use sui::object::{Self, UID};
-    use sui::tx_context::{Self, TxContext};
+    //     use sui::object::{Self, UID};
+    // use sui::tx_context::{Self, TxContext};
     use std::string::{Self, String};
-    use sui::transfer;
+    // use sui::transfer;
 
       public struct Hello has key {
         id: UID,
