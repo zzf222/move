@@ -20,6 +20,7 @@ compiled_package_info:
     deps_as_root: false
     silence_warnings: false
     warnings_are_errors: false
+    json_errors: false
     additional_named_addresses: {}
     lint_flag:
       no_lint: false
