@@ -34,7 +34,7 @@
 
 
 
-## Move Game(testnet)
+## 04 Move Game(testnet)
 
 - [x] game package id :0xc8f1bc31bb1cb8c61c34304b29c37707a043ac37044c52620ce64b3ac88d013a
 - [x] deposit Coin hash:HNem8ymD6Uc5fA4NtB1oUExytLFhVwmWgmuSoVGG5fku
