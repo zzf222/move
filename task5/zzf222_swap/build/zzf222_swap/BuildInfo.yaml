@@ -1,0 +1,32 @@
+---
+compiled_package_info:
+  package_name: zzf222_swap
+  address_alias_instantiation:
+    mycoin: "0000000000000000000000000000000000000000000000000000000000000000"
+    std: "0000000000000000000000000000000000000000000000000000000000000001"
+    sui: "0000000000000000000000000000000000000000000000000000000000000002"
+    zzf222_swap: "0000000000000000000000000000000000000000000000000000000000000000"
+  source_digest: C030C76EDCE7E93FF9BE606157BF04ED87C5FA85819599B93B8F9501CD5D46D3
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    install_dir: ~
+    force_recompilation: false
+    lock_file: ".\\Move.lock"
+    fetch_deps_only: false
+    skip_fetch_latest_git_deps: false
+    default_flavor: sui
+    default_edition: ~
+    deps_as_root: false
+    silence_warnings: false
+    warnings_are_errors: false
+    json_errors: false
+    additional_named_addresses: {}
+    lint_flag:
+      no_lint: false
+      lint: false
+dependencies:
+  - MoveStdlib
+  - Sui
+  - mycoin
